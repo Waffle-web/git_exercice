@@ -1,0 +1,49 @@
+*,
+::after,
+::before {
+  box-sizing: border-box;
+}
+body {
+  margin: 0;
+}
+.up {
+  background-color: #201b2d;
+  width: 375px;
+  height: 402px;
+}
+.link {
+  color: white;
+  font-style: 0.875rem;
+  margin-left: 24px;
+  padding-top: 24px;
+  font-weight: bold;
+}
+h2 {
+  color: white;
+  font-size: 2rem;
+  margin-left: 24px;
+}
+p {
+  color: white;
+  margin-left: 46.88px;
+  margin-right: 16px;
+  font-style: 1rem;
+  border-left: solid 5px white;
+  padding-left: 8px;
+}
+.autor {
+  color: white;
+  font-size: 0.75rem;
+}
+.credit {
+  color: white;
+  font-size: 0.75rem;
+  margin-left: 24px;
+}
+.name {
+  color: white;
+  font-weight: bold;
+  font-size: 0.75rem;
+  margin-left: 24px;
+}
+
